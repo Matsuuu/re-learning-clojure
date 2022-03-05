@@ -1,5 +1,4 @@
-# Yarr
+# Just posting my learning code here in the hopes of having a nice reference later on
 
-I'll be putting up my code and blog posts on my journey of re-learning Clojure
+Currently at https://www.braveclojure.com/functional-programming/
 
-https://matsu.fi/posts/re-learning-clojure-part-one/
